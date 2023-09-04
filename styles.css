@@ -1,0 +1,11 @@
+#buscadorImagen{
+    width: 500px;
+    margin-bottom: 10px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
